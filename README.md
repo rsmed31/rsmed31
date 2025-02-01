@@ -12,12 +12,12 @@
 
 ## 🚀 Main Projects
 
-<a href="https://github.com/yourusername/webchat-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=webchat-app&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Webchat App" />
+<a href="https://github.com/rsmed31/Webchat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rsmed31&repo=Webchat&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Webchat App" />
 </a>
 
-<a href="https://github.com/yourusername/monitoring-dashboard">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=monitoring-dashboard&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Monitoring Dashboard" />
+<a href="https://github.com/rsmed31/interfaceUI">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rsmed31&repo=interfaceUI&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Monitoring Dashboard" />
 </a>
 
 
