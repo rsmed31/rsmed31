@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi 👋, I'm Mohamed Rsaissi
 
-<!--
-**rsmed31/rsmed31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer science student at @Telecom St-Etienne
 
-Here are some ideas to get you started:
+After 2 years at @Telecom St-Etienne. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack
+
+| Main | Secondary | Environments | Hobbies |
+|------|----------|-------------|---------|
+| ![Java](https://img.shields.io/badge/-Java-blue) ![Python](https://img.shields.io/badge/-Python-blue) ![NodeJS](https://img.shields.io/badge/-NodeJS-blue) | ![Git](https://img.shields.io/badge/-Git-yellow) ![React](https://img.shields.io/badge/-React-yellow) ![LaTeX](https://img.shields.io/badge/-LaTeX-yellow) | ![Linux](https://img.shields.io/badge/-Linux-black) ![Docker](https://img.shields.io/badge/-Docker-black) ![CI/CD](https://img.shields.io/badge/-CI/CD-black) | ![RaspberryPi](https://img.shields.io/badge/-RaspberryPi-green) ![Arduino](https://img.shields.io/badge/-Arduino-green) ![LaTeX](https://img.shields.io/badge/-LaTeX-green) |
+
+---
+
+## 🚀 Main Projects
+
+| Project | Description |
+|---------|------------|
+| **[Slider](https://github.com/yourusername/slider)** | A Java-based project for incremental reasoning on data streams. |
+| **[Bringit](https://github.com/yourusername/bringit)** | A Git GUI tool that teaches you Git on the fly using gamification. |
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: [mohamedrs0903@gmail.com](mailto:mohamedrs0903@gmail.com)
+- 🔗 [LinkedIn](https://linkedin.com/in/mohamed-rsaissi)
+- 🔗 [GitHub](https://github.com/rsmed31)
+
+---
+
+🌟 _Feel free to connect and collaborate!_
