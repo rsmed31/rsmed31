@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Rsaissi</h1>
 <h3 align="center"> Computer Science & Networks Engineering Student</h3>
 
-- After completing my preparatory classes in Mathematics and Physics, I pursued an Engineering Degree at <a href="https://www.telecom-st-etienne.fr/">Télécom Saint-Étienne</a>, specializing in Computer Science and Networks. I have experience in IT security, blockchain, and software development, working with international organizations and startups.
+- After completing my preparatory classes in Mathematics and Physics, I pursued an Engineering Degree at <a href="https://www.telecom-st-etienne.fr/">Télécom Saint-Étienne</a>, specializing in Computer Science and Networks. I have experience in IT security, blockchain, and software development, working with an international organization and a startup.
 
 
 ## 🛠 Tech Stack
