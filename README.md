@@ -8,7 +8,7 @@
 
 | Main | Secondary | Environments | Hobbies |
 |:----:|:---------:|:-------------:|:-------:|
-| <img src="https://skillicons.dev/icons?i=java,mysql,python,nodejs&theme=dark&perline=4"/> | <img src="https://skillicons.dev/icons?i=git,react,solidity&theme=dark&perline=4"/> | <img src="https://skillicons.dev/icons?i=linux,docker,ci/cd&theme=dark&perline=4"/> | <img src="https://skillicons.dev/icons?i=react,latex&theme=dark&perline=4"/> |
+| <img src="https://skillicons.dev/icons?i=java,mysql,python,nodejs&theme=dark&perline=4"/> | <img src="https://skillicons.dev/icons?i=git,react,solidity&theme=dark&perline=4"/> | <img src="https://skillicons.dev/icons?i=linux,azure,docker,ci/cd&theme=dark&perline=4"/> | <img src="https://skillicons.dev/icons?i=react,latex&theme=dark&perline=4"/> |
 
 ## 🚀 Main Projects
 
