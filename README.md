@@ -30,14 +30,21 @@
 ## 🛠 Tech Stack
 
 ### 👨‍💻 Languages
-<img src="https://skillicons.dev/icons?i=python,java,cpp,sql&theme=dark&perline=4"/>
+<p>
+  <img height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+  <img height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+</p>
 
 ### ☁️ Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,linux,git,githubactions&theme=dark&perline=6"/>
-
-### 🤖 AI & Data
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark&perline=4"/>
-
+<p>
+  <img height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
+  <img height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  <img height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
+  <img height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  <img height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+</p>
 ---
 
 # 🚀 Featured AI & Cloud Projects
