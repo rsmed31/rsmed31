@@ -1,47 +1,101 @@
 <h1 align="center">Hi 👋, I'm Mohamed Rsaissi</h1>
-<h3 align="center"> Computer Science & Networks Engineering Student</h3>
-
-- After completing my preparatory classes in Mathematics and Physics, I pursued an Engineering Degree at <a href="https://www.telecom-st-etienne.fr/">Télécom Saint-Étienne</a>, specializing in Computer Science and Networks. I have experience in IT security, blockchain, and software development, working with an international organization and a startup.
-
-
-## 🛠 Tech Stack
-
-| Main | Secondary | Environments | Hobbies |
-|:----:|:---------:|:-------------:|:-------:|
-| <img src="https://skillicons.dev/icons?i=java,mysql,python,nodejs&theme=dark&perline=4"/> | <img src="https://skillicons.dev/icons?i=git,cpp,react,solidity&theme=dark&perline=4"/> | <img src="https://skillicons.dev/icons?i=linux,azure,docker,ci/cd&theme=dark&perline=4"/> | <img src="https://skillicons.dev/icons?i=react,latex&theme=dark&perline=4"/> |
-
-## 🚀 Main Projects
-
-<a href="https://github.com/rsmed31/Webchat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rsmed31&repo=Webchat&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Webchat App" />
-</a>
-
-<a href="https://github.com/rsmed31/interfaceUI">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rsmed31&repo=interfaceUI&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Monitoring Dashboard" />
-</a>
-
-
-## 📫 Contact Me
-
-- 📧 Email: [mohamedrs0903@gmail.com](mailto:mohamedrs0903@gmail.com)
-- 🔗 [LinkedIn](https://linkedin.com/in/mohamed-rsaissi)
-- 🔗 [GitHub](https://github.com/rsmed31)
-
-## 🏆 Certifications
-
-- [Blockchain Specialization - University at Buffalo (2023)](https://www.coursera.org/account/accomplishments/specialization/9MD9HGY9UGHW)
-- [IBM Full Stack Developer Certificate (2023)](https://www.coursera.org/account/accomplishments/specialization/J9LGBFK7XHSC)
-- **TOEIC C1:** scored 975 (2025)
-
-## 🎯 Activities
-
-| Activity | Description |
-|----------|-------------|
-| **Coding** | Exploring new technologies and building projects. |
-| **Charity** | Managed network access for autistic students at Sanad Village (Dubai). |
-| **Crypto/NFT Trading** | Engaged in digital asset trading for investment. |
-| **Esports** | Former Top 100 FIFA Middle East ranking. |
+<h3 align="center">Cloud & AI Engineering Student | LLM Systems | Distributed Architectures</h3>
 
 ---
 
-🌟 _Feel free to connect and collaborate!_
+## 🚀 About Me
+
+🎓 Engineering student at <a href="https://www.telecom-st-etienne.fr/">Télécom Saint-Étienne</a> (Computer Science & Networks)
+
+☁️ Passionate about **Cloud Engineering, Distributed Systems, and Generative AI**
+
+🤖 Building LLM-powered systems, AI pipelines, and scalable infrastructure
+
+🔐 Background in cybersecurity, networking, and high-performance systems
+
+🎯 Goal: Engineer production-grade AI systems deployed on cloud-native architectures
+
+---
+
+## 🧠 Core Expertise
+
+- **Generative AI & LLMs**: Fine-tuning, Prompt Engineering, Evaluation Pipelines
+- **Cloud & DevOps**: Azure, Docker, CI/CD, Infrastructure Design
+- **Backend Systems**: Java, Python, REST APIs, Distributed Architectures
+- **MLOps & AI Evaluation**: Precision/Recall optimization, benchmarking frameworks
+- **Networking & Security**: VLANs, Firewalls, Infrastructure Hardening
+
+---
+
+## 🛠 Tech Stack
+
+### 👨‍💻 Languages
+<img src="https://skillicons.dev/icons?i=python,java,cpp,sql&theme=dark&perline=4"/>
+
+### ☁️ Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,linux,git,githubactions&theme=dark&perline=6"/>
+
+### 🤖 AI & Data
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark&perline=4"/>
+
+---
+
+# 🚀 Featured AI & Cloud Projects
+
+## 🧠 LLM Network Configuration Assistant
+🔗 https://github.com/rsmed31/P003-LLM
+
+- Designed an LLM system to assist in network protocol configuration
+- Applied prompt engineering and evaluation strategies
+- Integrated into a structured system architecture
+
+---
+
+## ✈️ Airline Trend Analysis with GenAI
+🔗 https://github.com/rsmed31/Airline-Trend-Analysis-with-GenAI
+
+- Built an AI-powered analytics engine on airline datasets
+- Performed feature engineering and predictive modeling
+- Integrated LLM-based cluster summarization
+- Designed evaluation metrics and visualization pipelines
+
+---
+
+## 🦠 High-Performance Multi-threaded Contamination Detection
+🔗 https://github.com/rsmed31/CoronaVirus-hpp
+
+- Built 1-thread, 3-thread, and 5-thread architectures
+- Benchmarked performance & concurrency models
+- Optimized memory access patterns
+- Applied mechanical sympathy concepts
+
+---
+
+## 🛡 CyberAI – Security Log Analysis with AI
+🔗 https://github.com/rsmed31/cyberai
+
+- Developed AI-assisted log analysis pipeline
+- Combined heuristic detection + LLM scoring
+- Implemented benchmarking with F1 / Precision / Recall
+- Designed structured JSON output for threat intelligence
+
+---
+
+# 📜 Certifications
+
+- ☁️ Microsoft Azure Fundamentals (AZ-900)
+- 🎓 IBM Full Stack Developer Certificate
+- ⛓ Blockchain Specialization – University at Buffalo
+- 🇬🇧 TOEIC C1 – 975/990
+
+---
+
+# 📫 Connect With Me
+
+- 📧 mohamedrs0903@gmail.com
+- 🔗 LinkedIn: https://linkedin.com/in/mohamed-rsaissi
+- 💻 GitHub: https://github.com/rsmed31
+
+---
+
+⚡ Currently exploring: MLOps, AI Agents, Cloud-native AI systems, Kubernetes orchestration.
